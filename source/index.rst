@@ -23,7 +23,6 @@ Here is an example about how to generate new parrot objects.
    
    public parrot generateNewParrot () {
 		return new parrot();
-		generateNewParrot();
    }
 
 
