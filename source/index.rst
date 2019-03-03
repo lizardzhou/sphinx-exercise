@@ -30,8 +30,7 @@ Calculate weight
 ================
 Here is a formula for calculating the weight of a parrot.
 
-.. math::
-   m_{parrot} = \rho_{parrot} \cdot V_{parrot}
+:math:`m_{parrot} = \rho_{parrot} \cdot V_{parrot}`
 
 
 Indices and tables
@@ -43,4 +42,4 @@ Indices and tables
 
 Need help?
 ==========
-Please contact xiye.zhou@tuhh.de
+Please contact xiye.zhou@tuhh.de .
